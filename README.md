@@ -1,5 +1,5 @@
-[![NPM](https://img.shields.io/npm/v/eosjs-ecc.svg)](https://www.npmjs.org/package/eosjs-ecc)
-[![Build Status](https://travis-ci.org/EOSIO/eosjs-ecc.svg?branch=master)](https://travis-ci.org/EOSIO/eosjs-ecc)
+[![NPM](https://img.shields.io/npm/v/botjs.svg)](https://www.npmjs.org/package/btojs)
+[![Build Status](https://travis-ci.org/BOTIO/botjs-ecc.svg?branch=master)](https://travis-ci.org/BOTIO/botjs)
 
 # Elliptic curve cryptography functions (ECC)
 
@@ -8,7 +8,7 @@ Private Key, Public Key, Signature, AES, Encryption / Decryption
 # Import
 
 ```js
-import ecc from 'eosjs-ecc'
+import ecc from 'botjs-ecc'
 // or
 const ecc = require('eosjs-ecc')
 ```
